@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @zedhio
-- 👀 I’m interested in System Analyst, QA Engineer, Junior Project Manager & UI Designer
-- 🌱 I’m currently learning UI/UX Designer, & QA Engineer
-- 💞️ I’m looking to collaborate on Tamtech International
+- 👋 Hi, I’m @zedhio.
+- 👀 I’m interested in Software Tester, SQA Engineer, & Software Quality Control.
+- 🌱 I’m currently learning Automation Testing.
+- 💞️ I want to contribute to any company.
 - 📫 How to reach me ? You can contact me by email zedhiopratama@gmail.com or visit https://zedhio.github.io
 
 <!---
